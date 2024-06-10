@@ -1,5 +1,13 @@
 import time
+ 
 
+
+
+
+
+
+
+ 
 segundos = 0
 minutos = 1 #int(input('Quantos minutos deseja esperar? '))
 
